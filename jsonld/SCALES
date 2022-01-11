@@ -1,6 +1,6 @@
 {
    "@context": {
-      "SCALES": "http://schemas.scales-okn.org/jsonld/SCALES#",
+      "SCALES": "http://docs.scales-okn.org/schemas/jsonld/SCALES#",
       "xsd": "http://www.w3.org/2001/XMLSchema#",
       "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
       "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
@@ -47,7 +47,7 @@
    },
    "CaseCivil": {
       "@id": "SCALES:CaseCivil",
-      "@base": "http://schemas.scales-okn.org/jsonld/CaseCivil/",
+      "@base": "http://docs.scales-okn.org/schemas/jsonld/CaseCivil/",
       "@type": "rdf:Class",
       "@graph": [
                 {
@@ -70,7 +70,7 @@
    },
    "CaseCriminal": {
       "@id": "SCALES:CaseCriminal",
-      "@base": "http://schemas.scales-okn.org/jsonld/CaseCriminal/",
+      "@base": "http://docs.scales-okn.org/schemas/jsonld/CaseCriminal/",
       "@type": "rdf:Class",
       "@graph": [
                 {
@@ -89,7 +89,7 @@
    },
    "Court": {
       "@id": "SCALES:Court",
-      "@base": "http://schemas.scales-okn.org/jsonld/Court/",
+      "@base": "http://docs.scales-okn.org/schemas/jsonld/Court/",
       "@type": "rdf:Class",
       "@graph": []
    }
