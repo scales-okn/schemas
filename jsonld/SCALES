@@ -14,10 +14,7 @@
          "@id": "SCALES:hasTerminatingDate",
          "@type": "xsd:dateTime"
       },
-      "nature_suit": {
-         "@id": "SCALES:hasNatureSuit",
-         "@type": "xsd:string"
-      },
+      "nature_suit": "SCALES:hasNatureSuit",
       "court": {
          "@id": "SCALES:inCourt",
          "@type": "@id"
