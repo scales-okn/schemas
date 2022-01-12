@@ -14,7 +14,7 @@
          "@id": "SCALES:hasTerminatingDate",
          "@type": "xsd:dateTime"
       },
-      "nature_suit": "SCALES:hasNatureSuit",
+      "nature_suit": "SCALES:hasNatureSuit"
    },
 
 
