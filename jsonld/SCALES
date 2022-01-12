@@ -15,10 +15,6 @@
          "@type": "xsd:dateTime"
       },
       "nature_suit": "SCALES:hasNatureSuit",
-      "court": {
-         "@id": "SCALES:inCourt",
-         "@type": "SCALES:Court"
-      }
    },
 
 
