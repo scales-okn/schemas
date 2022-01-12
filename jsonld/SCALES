@@ -17,7 +17,7 @@
       "nature_suit": "SCALES:hasNatureSuit",
       "court": {
          "@id": "SCALES:inCourt",
-         "@type": "@id"
+         "@type": "SCALES:Court"
       }
    },
 
